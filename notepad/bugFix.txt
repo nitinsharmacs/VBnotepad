@@ -1,0 +1,1 @@
+1)  Solve the bug of new file and opening existing file and it ask for saving it

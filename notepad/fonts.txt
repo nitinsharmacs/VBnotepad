@@ -1,0 +1,38 @@
+MS Sans Serif
+MS Serif
+Nachlieli CLM
+Nachlieli CLM BoldOblique
+Nachlieli CLM LightOblique
+News701 BT
+NewsGoth BT
+NewsGoth Cn BT
+NewsGoth Lt BT
+Noto Kufi Arabic
+Noto Mono
+Noto Naskh Arabic
+Noto Naskh Arabic UI
+Noto Sans
+Noto Sans Arabic
+Noto Sans Arabic UI
+Noto Sans Armenian
+Noto Sans Georgian
+Noto Sans Hebrew
+Noto Sans Lao
+Noto Sans Lisu
+Noto Serif
+Noto Serif Armenian
+Noto Serif Georgian
+Noto Serif Hebrew
+Noto Serif Lao
+OCR-A BT
+OCR-B 10 BT
+OpenSymbol
+Palatino Linotype
+Reem Kufi
+Roman
+Rubik
+Schadow BT
+Scheherazade
+Script
+Segoe Print
+Segoe Script
